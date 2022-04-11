@@ -50,5 +50,10 @@
 
 <h5 align="center">	
 <!--START_SECTION:waka-->
+
+```text
+Markdown   24 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 </h5>
