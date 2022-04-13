@@ -49,6 +49,7 @@
 </p>
 
 <h5 align="center">	
+	The Past week, I've:
 <!--START_SECTION:waka-->
 
 ```text
