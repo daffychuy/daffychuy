@@ -49,7 +49,7 @@
 </p>
 
 <h5 align="center">	
-	The Past week, I've:
+	The Past week, I've: (Stats disabled due to enterprise repository used)
 <!--START_SECTION:waka-->
 
 ```text
