@@ -47,14 +47,3 @@
 	<code><img height="32" width="32" src="./images/sql.svg" /></code>
 	<code><img height="32" width="32" src="./images/docker.svg" /></code>
 </p>
-
-<h5 align="center">	
-	The Past week, I've: (Stats disabled due to enterprise repository used)
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</h5>
